@@ -1,0 +1,6 @@
+print('Vitor Hugo')
+print("Vitor Hugo")
+print("Vitor \"Hugo\"")
+print(r"Vitor \"Hugo\"")
+print('Vitor "Hugoo"')
+print("Vitor 'Hugoo'")
